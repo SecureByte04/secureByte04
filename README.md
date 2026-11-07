@@ -239,7 +239,7 @@ I'm currently focused on:
 
 *Every expert was once a beginner.*
 
-I'm documenting my journey, one command, one concept, and one project at a time.
+I'm documenting my journey, one command.
 
 **Thanks for visiting my profile!**
 
